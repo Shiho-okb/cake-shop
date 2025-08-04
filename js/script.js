@@ -1,4 +1,4 @@
-// ハンバーガーメニュー
+// ハンバーガーメニュー 
 $(function (){
   $('.menu-trigger').click(function () {          //ハンバーガーボタン（.menu-trigger）をタップすると、
     $(this).toggleClass('active');                //タップしたハンバーガーボタン（.menu-trigger）に（.active）を追加・削除する。
